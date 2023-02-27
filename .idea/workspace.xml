@@ -78,6 +78,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/Sound.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/UI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/UtilityTool.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/objects/OBJ_Boots.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/objects/OBJ_Chest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/objects/OBJ_Door.java" afterDir="false" />
